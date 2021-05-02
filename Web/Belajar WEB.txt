@@ -1,0 +1,7 @@
+localhost/Nama_folder/index.php/Class_Contrller/Function
+
+contoh
+localhost/Tess/index.php/Class_contrller/function
+
+
+Belajar Boostrap & TailWing & Composer
